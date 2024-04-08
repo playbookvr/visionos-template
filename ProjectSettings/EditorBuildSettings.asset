@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+    path: Assets/Samples/PolySpatial/Scenes/BalloonGallery.unity
+    guid: 4c268b318e1821b4f8da83f415cac049
+  m_configObjects:
+    UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: b2c085ecd49a148e88a11f57faebcbac,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: b3fb83d1338da496e98883be486279d8,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 067a90bf7e40f442a974a3f35aae7801,
+      type: 2}
