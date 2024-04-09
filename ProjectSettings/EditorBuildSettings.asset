@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Samples/PolySpatial/Scenes/BalloonGallery.unity
-    guid: 4c268b318e1821b4f8da83f415cac049
+    path: Assets/Scenes/[ TEMPLATE ].unity
+    guid: b62a6a674acca494db5b3b96bfa8e1fc
   m_configObjects:
     UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: b2c085ecd49a148e88a11f57faebcbac,
       type: 2}
